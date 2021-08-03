@@ -2,7 +2,7 @@
   
 ### Olá! 👋 Meu nome é Alberto Santos, 
 
- 🔭 Minha area de atuação atualmente é Redes de Telecom - ⚡ Quero me tornar um desenvolvedor Fullstack </div>
+ 🔭 Minha área de atuação atualmente é **Redes de Telecom** - ⚡ Quero me tornar um **Desenvolvedor Fullstack** </div>
 
 ### <div align="center">🌱 Estou estudando...</div>  
   <div style="display: inline_block" align="center"><br>
@@ -12,6 +12,7 @@
   <img align="center" alt="Alberto-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Alberto-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Alberto-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Alberto-Next" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
 </div><br><br>
 
 
