@@ -17,8 +17,8 @@
 
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Alberto-S-P&show_icons=true&theme=merko"/>
-  <img height ="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut" />
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=Alberto-S-P&show_icons=true&theme=merko"/>
+  <img height ="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut" />
 
 </div><br>
   
