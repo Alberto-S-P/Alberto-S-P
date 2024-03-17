@@ -17,8 +17,6 @@
 
 
 <div align="center">
-<a href="https://github.com/Alberto-S-P">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Alberto-S-P&show_icons=true&theme=dark&include_all_commits=true&count_private=true&border_radius=20px"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Alberto-S-P&show_icons=true&theme=merko"/>
 
 </div><br>
