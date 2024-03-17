@@ -2,7 +2,7 @@
   
 ### Olá! 👋 Meu nome é Alberto Santos, 
 
- 🔭 Minha área de atuação atualmente é **Redes de Telecom** - ⚡ Quero me tornar um **Desenvolvedor Fullstack** </div>
+**Desenvolvedor Fullstack** </div>
 
 ### <div align="center">🌱 Estou estudando...</div>  
   <div style="display: inline_block" align="center"><br>
@@ -17,7 +17,7 @@
 
 
 <div align="center">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=Alberto-S-P&show_icons=true&theme=merko"/>
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=Alberto-S-P&show_icons=true&theme=default"/>
   <img height ="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut" />
 
 </div><br>
