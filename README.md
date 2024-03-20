@@ -17,7 +17,7 @@
 
 
 <div align="center">
-  <img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=Alberto-S-P&show_icons=true&theme=default"/>
+  
   <img height ="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alberto-S-P&layout=donut" />
 
 </div><br>
